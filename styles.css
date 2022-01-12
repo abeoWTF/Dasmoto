@@ -1,0 +1,21 @@
+. {
+    font-family: Helvetica;
+
+}
+
+.headers-titels {
+
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+}
+
+#title {
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url("./Image/pattern.jpeg");
+    opacity: 0.8;
+}
