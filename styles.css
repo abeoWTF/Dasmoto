@@ -1,6 +1,5 @@
-. {
+* {
     font-family: Helvetica;
-
 }
 
 .headers-titels {
@@ -11,6 +10,15 @@
     background-color: mediumspringgreen;
 }
 
+.pictures-sale {
+    margin-left: -39px;
+}
+
+.price-text {
+    font-weight: bold;
+    color: blue;
+}
+
 #title {
     font-size: 100px;
     font-weight: bold;
@@ -18,4 +26,12 @@
     text-align: center;
     background-image: url("./Image/pattern.jpeg");
     opacity: 0.8;
+}
+
+#frames-header {
+    background-color: lightcoral;
+}
+
+#paint-header {
+    background-color: skyblue;
 }
